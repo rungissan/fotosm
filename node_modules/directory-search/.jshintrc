@@ -1,0 +1,13 @@
+{
+  "node": true,
+  "esnext": true,
+  "quotmark": true,
+  "smarttabs": true,
+  "trailing": true,
+  "undef": true,
+  "unused": "vars",
+  "globals": {
+    "module": true,
+    "require": true
+  }
+}
